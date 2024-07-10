@@ -1,3 +1,4 @@
 base58
 python3-indy==1.11.0
 jsonschema>=2.6.0
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
